@@ -1,13 +1,13 @@
 {
-"name": "YoshikoBot-MD",
+"name": "HachikoBotLite-MD",
 "website": "https://github.com/OfcDiego",
 "description": "Super Bot WhatsApp",
-"repository": "https://github.com/OfcDiego/YoshikoBot-MD",
+"repository": "https://github.com/OfcDiego/HachikoBotLite-MD",
 "logo": "https://telegra.ph/file/7e8fed70cb176dfc1f04e.jpg",
-"success_url": "https://github.com/OfcDiego/YoshikoBot-MD",
+"success_url": "https://github.com/OfcDiego/HachikoBotLite-MD",
 "keywords": [
 "nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
-"termux", "superbot", "multi-device", "md", "official", "javascript", "yoshiko"],
+"termux", "superbot", "multi-device", "md", "official", "javascript", "hachiko"],
 "image": "heroku/nodejs",
 "buildpacks": [
 { "url": "heroku/nodejs" },
