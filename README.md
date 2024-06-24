@@ -15,9 +15,7 @@ href="https://github.com/BrunoSobrino"><img src="https://telegra.ph/file/32103b8
 
 ### `👑 CREADORES`
 <a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="120" height="120" alt="Diego"/></a>
-
-<a
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="120" height="120" alt="Diego"/></a> <a
 href="https://github.com/HACHEJOTA"><img src="https://github.com/HACHEJOTA.png" width="120" height="120" alt="JOTA"/></a>
 
 
