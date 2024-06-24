@@ -4,6 +4,7 @@
 
 *¡DIFRUTA DE ESTE QUERIDO PERRO!* 🐶
 
+***
 
 💻 INSTALACION MANUAL POR TERMUX
 
@@ -56,6 +57,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 Para que no pierda su progreso en HachikoBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 > Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
+
+***
 
 *🌟 DESARROLLADORES*
 <a href="https://github.com/OfcDiego/HachikoBotLite-MD/graphs/contributors">
