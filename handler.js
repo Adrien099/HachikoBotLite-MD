@@ -409,7 +409,7 @@ global.db.data.users[m.sender].spam = new Date * 1
 let hl = _prefix 
 let adminMode = global.db.data.chats[m.chat].modoadmin
 let exotico = `${plugins.botAdmin || plugins.admin || plugins.group || plugins || noPrefix || hl ||  m.text.slice(0, 1) == hl || plugins.command}`
-if (adminMode && !isOwner && !isROwner && m.isGroup && !isAdmin && yoshiko) return   
+if (adminMode && !isOwner && !isROwner && m.isGroup && !isAdmin && hachiko) return   
 if (plugin.rowner && plugin.owner && !(isROwner || isOwner)) { //número bot owner
 fail('owner', m, this)
 continue
@@ -455,7 +455,7 @@ if (xp > 2000)
 m.reply('Exp limit') 
 else               
 if (!isPrems && plugin.money && global.db.data.users[m.sender].money < plugin.money * 1) {
-conn.reply(m.chat, `❮💰❯ 𝗡𝗼 𝘁𝗶𝗲𝗻𝗲𝘀 𝘀𝘂𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗲𝘀 𝗬𝗼𝘀𝗵𝗶𝗖𝗼𝗶𝗻𝘀 𝗽𝗮𝗿𝗮 𝘂𝘀𝗮𝗿 𝗲𝘀𝘁𝗲 𝗰𝗼𝗺𝗮𝗻𝗱𝗼.`, m, rcanal)       
+conn.reply(m.chat, `❮💰❯ 𝗡𝗼 𝘁𝗶𝗲𝗻𝗲𝘀 𝘀𝘂𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗲𝘀 𝗛𝗮𝗰𝗵𝗶𝗖𝗼𝗶𝗻𝘀 𝗽𝗮𝗿𝗮 𝘂𝘀𝗮𝗿 𝗲𝘀𝘁𝗲 𝗰𝗼𝗺𝗮𝗻𝗱𝗼.`, m, rcanal)       
 continue     
 }
 
@@ -658,7 +658,7 @@ mentionedJid:[user],
 "title": [wm, packname, botname].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
-sourceUrl: redesYoshi }}}, { quoted: fkontak2 })
+sourceUrl: redes }}}, { quoted: fkontak2 })
 apii.data = ''
 //this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }, { quoted: fkontak2 })
 }}}
@@ -735,16 +735,16 @@ console.error(e)
 
 global.dfail = (type, m, conn) => {
   const msg = {
-        rowner: '✰ *¡El Uso Del Comando Solo Lo Puede Usar Mi Desarrollador!*',
-    owner: '✰ *¡Solo el Creador del Bot pueden usar este comando!*',
-    mods: '✰ *¡Solo los Moderadores del Bot pueden usar este comando!*',
-    premium: '✯ *¡Solo los usuarios Premium pueden usar este comando!*',
-    group: '✰ *¡Esta Función Solo Se Puede Usar En Grupos!*',
-    private: '✰ *¡Esta Función Solo Se Puede Utilizar Al Chat Privado Del Bot!*',
-    admin: '✰ *¡Esta Función Solo Se Puede Utilizar Por Un Admin Del Grupo!*',
-    botAdmin: '✰ *!Para Poder Utilizar Este Comando Es Necesario Que El Bot Sea Admin!*',
-    unreg: '✰ *¡Para Continuar Con Esta Función Es Necesario Registrarse!*\n\n♕︎ !reg nombre.edad\n\n߷ *Uso Correcto* : !reg Diego.222',
-    restrict: '✰ *¡Esta Función Fué Deshabilitado Por Mi Desarrollador!*',
+        rowner: '🐶 *¡El Uso Del Comando Solo Lo Puede Usar Mi Desarrollador!*',
+    owner: '🐶 *¡Solo el Creador del Bot pueden usar este comando!*',
+    mods: '🐶 *¡Solo los Moderadores del Bot pueden usar este comando!*',
+    premium: '🐶 *¡Solo los usuarios Premium pueden usar este comando!*',
+    group: '🐶 *¡Esta Función Solo Se Puede Usar En Grupos!*',
+    private: '🐶 *¡Esta Función Solo Se Puede Utilizar Al Chat Privado Del Bot!*',
+    admin: '🐶 *¡Esta Función Solo Se Puede Utilizar Por Un Admin Del Grupo!*',
+    botAdmin: '🐶 *!Para Poder Utilizar Este Comando Es Necesario Que El Bot Sea Admin!*',
+    unreg: '🐶 *¡Para Continuar Con Esta Función Es Necesario Registrarse!*\n\n🦮 !reg nombre.edad\n\n🐕‍🦺 *Uso Correcto* : !reg Diego.222',
+    restrict: '🐶 *¡Esta Función Fué Deshabilitado Por Mi Desarrollador!*',
     }[type];
     if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))}
 
