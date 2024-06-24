@@ -4,7 +4,7 @@ let colab = `✨️ ${namechannel}
 ${channel}`
 m.react('🤍') 
 
-await conn.sendFile(m.chat, pp, 'ofc.jpg', str, estilo)}
+await conn.sendFile(m.chat, pp, 'ofc.jpg', colab, estilo)}
 
 //await conn.sendFile(m.chat, pp, 'thumbnail.jpg', colab.trim(), m, null, estilo)}
 
