@@ -12,4 +12,4 @@ handler.command = /^grupos|linkyl|gruposofc|gruposoficiales$/i
 handler.register = true
 handler.exp = 33
 
-export default handler*/
+export default handler
