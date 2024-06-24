@@ -17,6 +17,6 @@ href="https://github.com/BrunoSobrino"><img src="https://telegra.ph/file/5601912
 *👑 CREADORES*
 
 <a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="120" height="120" alt="Diego"/></a> <a
-href="https://github.com/HACHEJOTA"><img src="https://github.com/HACHEJOTA.png" width="120" height="120" alt="JOTA"/></a>
+href="https://github.com/OfcDiego"><img src="https://telegra.ph/file/f3b56b90b1725b62cd5d8.jpg" width="120" height="120" alt="Diego"/></a> <a
+href="https://github.com/HACHEJOTA"><img src="https://telegra.ph/file/3fae4e0f050e47db4bbf0.jpg" width="120" height="120" alt="JOTA"/></a>
 > Copyright (c) 2024 **[OfcDiego](https://github.com/OfcDiego/HachikoBotLite-MD)**.
