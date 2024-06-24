@@ -1,30 +1,12 @@
-/*let pp = './Menu.jpg'
+let pp = './Menu.jpg'
 let handler = async (m, { conn, command }) => {
-let colab = `*◜🌸 GRUPOS OFICIALES 🌸◞*
-
-👑 ${wm} 1
-${gp1}
-
-👑 ${wm} 2
-${gp2}
-
- *◜🌸 COLABORACIÓN 🌸◞*
-
-💖 ${colab1}
-${gp3}
-
-💖 ${colab2}
-${gp4}
-
- *◜🌸 CANAL OFICIAL 🌸◞*
-
-✨️ ${namechannel}
+let colab = `✨️ ${namechannel}
 ${channel}`
 m.react('🤍') 
 
 //await conn.sendFile(m.chat, pp, 'ofc.jpg', str, rcanal)}
 
-await conn.sendFile(m.chat, pp, 'thumbnail.jpg', colab.trim(), m, null, rcanal)}
+await conn.sendFile(m.chat, pp, 'thumbnail.jpg', colab.trim(), m, null, estilo)}
 
 handler.command = /^grupos|linkyl|gruposofc|gruposoficiales$/i
 handler.register = true
