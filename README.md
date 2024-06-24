@@ -11,7 +11,7 @@
 
 ### `☄️ AGRADECIMIENTOS`
 <a
-href="https://github.com/BrunoSobrino"><img src="https://telegra.ph/file/32103b8335e64d253fa98.jpg" width="100" height="100" alt="Diego"/></a>
+href="https://github.com/BrunoSobrino"><img src="https://telegra.ph/file/560191203b6749133bcf4.jpg" width="100" height="100" alt="Diego"/></a>
 
 ### `👑 CREADORES`
 <a
