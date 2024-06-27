@@ -13,7 +13,7 @@ global.confirmCode = ""
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
 ['573012482597', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
-['5214437863111']]
+['917439317360']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = ['573218138672']
@@ -22,15 +22,15 @@ global.suittag = ['573012482597']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 𝗟𝗶𝘁𝗲 - 𝗠𝗗 🐶'
-global.author = 'Oғᴄ.Dɪᴇɢᴏ 👑'
+global.packname = '𒀽  𝝠̶𝐃̸𝐑𝝞꯭⃢𝚵̸̷𝐍  𓂃㒚'
+global.author = 'CHORI KARLE 👑'
 global.wm = '𝗛𝖺𝖼𝗁𝗂𝗄𝗈 𝗕𝗈𝗍 𝗟𝗂𝗍𝖾 - 𝗠𝖣 🐕‍🦺'
 global.titulowm = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 𝗟𝗶𝘁𝗲 🐶'
 global.titulowm2 = '𝑂𝑓𝑐 𝐷𝑖𝑒𝑔𝑜'
 global.igfg = '𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝐷𝑖𝑒𝑔𝑜'
 global.botname = 'Ⓨ︎ Hachiko Bot Lite - MD'
 global.team = '♋︎ 𝐃𝙴𝚅 𝐖𝙾𝚁𝙻𝙳 - 𝐓𝙴𝙰𝙼 ♋︎'
-global.dev = '👑 Developed By • ✨ Ofc.Diego'
+global.dev = '👑 Developed By • ✨ Adrien'
 global.textbot = '𝙃𝙖𝙘𝙝𝙞𝙠𝙤𝘽𝙤𝙩 : 𝙊𝙛𝙘𝘿𝙞𝙚𝙜𝙤 🌻🐈'
 global.vs = '2.0.0'
 
