@@ -12,11 +12,11 @@ global.confirmCode = ""
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['573012482597', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
-['917439317360']]
+['917439317360', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
+['']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['573218138672']
+global.mods = ['917439317360']
 
 global.suittag = ['573012482597']
 global.prems = []
@@ -26,12 +26,12 @@ global.packname = '𒀽  𝝠̶𝐃̸𝐑𝝞꯭⃢𝚵̸̷𝐍  𓂃㒚'
 global.author = 'CHORI KARLE 👑'
 global.wm = '𝗛𝖺𝖼𝗁𝗂𝗄𝗈 𝗕𝗈𝗍 𝗟𝗂𝗍𝖾 - 𝗠𝖣 🐕‍🦺'
 global.titulowm = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 𝗟𝗶𝘁𝗲 🐶'
-global.titulowm2 = '𝑂𝑓𝑐 𝐷𝑖𝑒𝑔𝑜'
-global.igfg = '𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝐷𝑖𝑒𝑔𝑜'
+global.titulowm2 = '𝗔𝗱𝗿𝗶𝗲𝗻'
+global.igfg = '𝗔𝗱𝗿𝗶𝗲𝗻'
 global.botname = 'Ⓨ︎ Hachiko Bot Lite - MD'
-global.team = '♋︎ 𝐃𝙴𝚅 𝐖𝙾𝚁𝙻𝙳 - 𝐓𝙴𝙰𝙼 ♋︎'
+global.team = '♋︎  Bear - 𝐓𝙴𝙰𝙼 ♋︎'
 global.dev = '👑 Developed By • ✨ Adrien'
-global.textbot = '𝙃𝙖𝙘𝙝𝙞𝙠𝙤𝘽𝙤𝙩 : 𝙊𝙛𝙘𝘿𝙞𝙚𝙜𝙤 🌻🐈'
+global.textbot = '𝙃𝙖𝙘𝙝𝙞𝙠𝙤𝘽𝙤𝙩 : 𝗔𝗱𝗿𝗶𝗲𝗻 🌻🐈'
 global.vs = '2.0.0'
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -40,9 +40,9 @@ global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
+global.channel = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u' //Canal Oficial
 global.yt = 'https://www.youtube.com/@Yoshiko_team' //Canal De Youtube
-global.md = 'https://github.com/OfcDiego/HachikoBotLite-MD' //Github Oficial
+global.ig = 'https://github.com/OfcDiego/HachikoBotLite-MD' //Github Oficial
 global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
