@@ -22,8 +22,8 @@ global.suittag = ['573012482597']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '𒀽  𝝠̶𝐃̸𝐑𝝞꯭⃢𝚵̸̷𝐍  𓂃㒚'
-global.author = 'CHORI KARLE 👑'
+global.packname = '𝗔𝗱𝗿𝗶𝗲𝗻 𝗴𝗼𝘁 𝗴𝗶𝗿𝗹𝘀 🌸'
+global.author = '౨ৎ   ᭬ 𝚨ֺ𝖽ֵ𝗿𝗂꯭᜔ִə֗𑜑ִ  ֵ 𐚱꯭ ꒰'
 global.wm = '𝗛𝖺𝖼𝗁𝗂𝗄𝗈 𝗕𝗈𝗍 𝗟𝗂𝗍𝖾 - 𝗠𝖣 🐕‍🦺'
 global.titulowm = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 𝗟𝗶𝘁𝗲 🐶'
 global.titulowm2 = '𝗔𝗱𝗿𝗶𝗲𝗻'
@@ -40,10 +40,7 @@ global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.channel = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u' //Canal Oficial
-global.yt = 'https://www.youtube.com/@Yoshiko_team' //Canal De Youtube
-global.ig = 'https://github.com/OfcDiego/HachikoBotLite-MD' //Github Oficial
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
+global.ig = 'https://www.instagram.com/_.adrienxd?igsh=MTBiZHJ0eXNsNGJ6OA==' //Instagram Del Propietario
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
